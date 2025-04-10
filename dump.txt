@@ -1,0 +1,7 @@
+the end vision I have for the app-> cmd based interface that will print the status...
+
+api based messages and then major work related messages...
+
+
+
+  
