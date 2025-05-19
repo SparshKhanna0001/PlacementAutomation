@@ -1,5 +1,16 @@
 # Placement Automation
 
+```
+
+⚠️ The further development of this project has been paused indefinately due to the following:
+- Inavailbality of free availble API by *apollo.io*
+  - The instiutioion for whom i was working with isn't willing to support from monetary pov, as of now
+
+*The project will be contd in the future if the following two conditons satify:*
+* integration of fake API call websites, project merely for lean=rning purpsoes
+* IF the institutions agrees to support the project in the required manner.
+```
+
 ## 📌 Overview
 This project automates the placement process by integrating **Apollo.io APIs** for company data fetching and **Google Apps Script** for document automation within Google Sheets.
 
