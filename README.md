@@ -7,8 +7,8 @@
   - The instiutioion for whom i was working with isn't willing to support from monetary pov, as of now
 
 *The project will be contd in the future if the following two conditons satify:*
-* integration of fake API call websites, project merely for lean=rning purpsoes
-* IF the institutions agrees to support the project in the required manner.
+*integration of fake API call websites, project merely for lean=rning purpsoes
+*IF the institutions agrees to support the project in the required manner.
 ```
 
 ## 📌 Overview
